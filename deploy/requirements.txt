@@ -7,3 +7,8 @@ tqdm
 pillow
 onnxruntime
 tf2onnx
+onnxruntime
+torch
+torchvision
+reportlab
+
