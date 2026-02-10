@@ -9,16 +9,16 @@ python-dotenv
 tensorflow==2.15.0; python_version < "3.12"
 keras==2.15.0; python_version < "3.12"
 
-numpy==1.26.4
+numpy==2.1.0
 opencv-python==4.9.0.80
 matplotlib==3.9.0
 pillow==10.3.0
 
-scikit-learn==1.5.0
+scikit-learn==1.6.0
 pandas==2.2.2
 
 onnx==1.16.0
-onnxruntime==1.17.3
+onnxruntime==1.20.0
 
 # Optional for visualization or CLI tools
 tqdm==4.66.4
